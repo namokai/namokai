@@ -1,15 +1,6 @@
-<div align="center">
-
-# Alifian Aurelyo Raditya
-
-**IT Graduate · IT Support · UI/UX Perspective · Business Data Analytics (in progress)**
-
-*IT Support dengan perspektif data dan pengalaman desain.*
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=namokai&show_icons=true&hide_border=true&bg_color=0b1026&title_color=c8ff00&icon_color=6ea8ff&text_color=8b93a7&count_private=true)](https://github.com/namokai)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=namokai&hide_border=true&background=0b1026&ring=ff5c8a&fire=ff5757&currStreakLabel=c8ff00)](https://github.com/namokai)
-
-</div>
+<p align="center">
+  <img src="assets/header.svg" alt="Alifian Aurelyo Raditya — IT Support · UI/UX · Data Analytics" width="100%"/>
+</p>
 
 ## 🧭 Tentang Saya
 
