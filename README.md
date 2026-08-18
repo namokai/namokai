@@ -18,7 +18,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-009688?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-009688?style=for-the-badge)
 
 ## 📌 Featured
 
